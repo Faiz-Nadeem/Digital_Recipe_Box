@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554696928368",
+    "project_id": "digital-recipe-app",
+    "storage_bucket": "digital-recipe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554696928368:android:2ab9d8b62e8df3d7fcd8b5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-qAM0b1tloGfyMTR2lwBBOFb1HRPpgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
